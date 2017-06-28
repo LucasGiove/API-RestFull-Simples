@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "API Rest com Node.js",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "api",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "LucasGiove",
+  "license": "MIT"
+}
